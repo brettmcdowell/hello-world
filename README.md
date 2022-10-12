@@ -3,7 +3,7 @@
 
 ### My name is Brett McDowell
 
-I'm currently studying at ==Durham University==, however, I'm originally from ==Ireland==
+I'm currently studying at <mark>Durham University</mark>, however, I'm originally from <mark>Ireland</mark>
 
 > This repository is just for an academic module, please ignore
 
